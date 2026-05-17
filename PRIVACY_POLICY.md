@@ -4,7 +4,7 @@
 
 ## Who is responsible
 
-Joachim Reiß (reiss@bryter.io) is the controller for the Workout Tracker app within the meaning of the GDPR.
+Joachim Reiß (joareiss@gmail.com) is the controller for the Workout Tracker app within the meaning of the GDPR.
 
 ## What data the app collects
 
@@ -28,5 +28,4 @@ The app uses Google Play Billing to process in-app purchases (optional tip/donat
 
 Since all data stays on your device and is not accessible to the developer, there is nothing to access, rectify, or delete on our end. You can delete all app data at any time through your device's app settings, or by uninstalling the app.
 
-For any questions, contact: reiss@bryter.io
-
+For any questions, contact: joareiss@gmail.com
